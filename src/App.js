@@ -15,6 +15,7 @@ class App extends Component {
           <header className="App-header">
             <img src={ logo } className="App-logo" alt="logo" />
             <h1 className="App-title">Welcome to React</h1>
+            <h4>Made with ♥ from Torcy, FR</h4>
           </header>
           <PostForm />
           <hr />
